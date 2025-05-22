@@ -5,7 +5,7 @@ working on it
 
 
 # References 
-Patel, D., Patel, D., Saxena, R., & Akilan, T(2023). Multi-class Brain Tumor Segmentation using Graph Attention Network.
+Patel, D., Patel, D., Saxena, R., & Akilan, T.,  (2023). Multi-class Brain Tumor Segmentation using Graph Attention Network.
 
 Ravinder, M., Saluja, G., Allabun, S., Alqahtani, M. S., Abbas, M., Othman, M., & Ben Othman, S. (2023). Enhanced brain tumor classification using graph convolutional neural network architecture. Scientific Reports, 13, 14938. https://doi.org/10.1038/s41598-023-41407-8 
 
