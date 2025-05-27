@@ -14,3 +14,6 @@ Gürsoy, E., & Kaya, Y. (2024). Brain-GCN-Net: Graph-Convolutional Neural Networ
 Mohammadi, S., & Allali, M. (2024). Advancing Brain Tumor Segmentation with Spectral–Spatial Graph Neural Networks. Applied Sciences, 14(8), 3424. https://doi.org/10.3390/app14083424 
 
 Saueressig, C., Berkley, A., Munbodh, R., & Singh, R. (2021). A Joint Graph and Image Convolution Network for Automatic Brain Tumor Segmentation. arXiv preprint arXiv:2109.05580. https://arxiv.org/abs/2109.05580
+
+Rukiye, D., Fatih, G., Ahmet, S. (2025) .Advanced Brain Tumor Classification in MR Images Using
+ Transfer Learning and Pre-Trained Deep CNN Models. https://pubmed.ncbi.nlm.nih.gov/39796749/
