@@ -2,6 +2,12 @@
 data/testing/
 data/training/
 
+# Data files
+*.npy
+*.npz
+data/train_graph.pt
+data/test_graph.pt
+
 # Python
 __pycache__/
 *.py[cod]
@@ -38,5 +44,4 @@ ENV/
 
 # OS
 .DS_Store
-Thumbs.db data/train_graph.pt
-data/test_graph.pt
+Thumbs.db
