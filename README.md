@@ -1,4 +1,5 @@
-# Detection_tumor_with_gnn
+# Developed a Tumor Detection Model on Medical Graph Data Using GAT and GNN Architectures
+
 
 working on it
 
