@@ -10,7 +10,7 @@ data/train_graph.pt
 data/test_graph.pt
 data/test_graph_wlabels.pt
 data/train_graph_wlabels.pt
-
+data/*.pt
 # Python
 __pycache__/
 *.py[cod]

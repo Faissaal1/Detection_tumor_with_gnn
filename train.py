@@ -308,7 +308,7 @@ def main():
     plot_metrics(metrics, metrics_dir)
     
     print(f"\nTraining metrics saved to {metrics_dir}")
-
+    
     # Load best model for final evaluation
     checkpoint = torch.load('checkpoints/best_model.pt')
     model.load_state_dict(checkpoint['model_state_dict'])
