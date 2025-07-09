@@ -111,11 +111,3 @@ graph_params = {
 5. Saueressig, C., et al. (2021). A Joint Graph and Image Convolution Network for Automatic Brain Tumor Segmentation. arXiv preprint arXiv:2109.05580. https://arxiv.org/abs/2109.05580
 
 6. Rukiye, D., Fatih, G., Ahmet, S. (2025). Advanced Brain Tumor Classification in MR Images Using Transfer Learning and Pre-Trained Deep CNN Models. https://pubmed.ncbi.nlm.nih.gov/39796749/
-
-## License
-
-[License information to be added]
-
-## Contributing
-
-[Contribution guidelines to be added]
