@@ -2,11 +2,14 @@
 data/testing/
 data/training/
 
+
 # Data files
 *.npy
 *.npz
 data/train_graph.pt
 data/test_graph.pt
+data/test_graph_wlabels.pt
+data/train_graph_wlabels.pt
 
 # Python
 __pycache__/
